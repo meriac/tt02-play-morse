@@ -1,25 +1,25 @@
 [*]
-[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
-[*] Thu Oct 27 10:17:53 2022
+[*] GTKWave Analyzer v3.3.111 (w)1999-2020 BSI
+[*] Thu Dec  1 19:05:26 2022
 [*]
-[dumpfile] "/home/matt/work/asic-workshop/shuttle7/tt02-submission-template/src/tb.vcd"
-[dumpfile_mtime] "Thu Oct 27 10:17:11 2022"
-[dumpfile_size] 14468
-[savefile] "/home/matt/work/asic-workshop/shuttle7/tt02-submission-template/src/tb.gtkw"
+[dumpfile] "/home/meri/Code/TinyTapeOut/tt02-play-morse/src/tb.vcd"
+[dumpfile_mtime] "Thu Dec  1 19:04:19 2022"
+[dumpfile_size] 2056903
+[savefile] "/home/meri/Code/TinyTapeOut/tt02-play-morse/src/tb.gtkw"
 [timestart] 0
-[size] 2286 698
+[size] 3840 2073
 [pos] -1 -1
-*-30.600000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+*-26.100000 85500000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 [treeopen] tb.
+[treeopen] tb.meriac_tt02_play_morse.
 [sst_width] 343
 [signals_width] 264
 [sst_expanded] 1
-[sst_vpaned_height] 190
+[sst_vpaned_height] 653
 @28
 tb.clk
-@29
 tb.rst
-@22
-tb.segments[6:0]
+@25
+tb.meriac_tt02_play_morse.meriac_morse_db.morse_db[1:0]
 [pattern_trace] 1
 [pattern_trace] 0
